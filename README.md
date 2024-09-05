@@ -1,35 +1,3 @@
-# Valex API 💳
-
-## Table of Contents
-- [Project Description](#project-description)
-- [Technologies](#technologies)
-- [Running the project](#running-the-project)
-- [Features](#features)
-    * [Card Creation](#card-creation)
-    * [Card Activation](#card-activation)
-    * [Card Blocking](#card-blocking)
-    * [Card Unblocking](#card-unblocking)
-    * [Card Recharge](#card-recharge)
-    * [Card Balance](#card-balance)
-    * [POS Payment](#pos-payment)
-    * [Online Payment](#online-payment)
-    * [Virtual Card Creation](#virtual-card-creation)
-    * [Virtual Card Deletion](#virtual-card-deletion)
-
-## Project Description
-**Valex** is a voucher card API.
-The API is responsible for creating, reloading, activating, as well as processing purchases.
-
-![status-finished](https://user-images.githubusercontent.com/97575616/152926720-d042178b-24c0-4d6b-94fb-0ccbd3c082cc.svg)
-
-## Technologies
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Running the project
-
 1. Clone the repository:
 
     ```bash
